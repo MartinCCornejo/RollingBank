@@ -1,0 +1,33 @@
+.somos-rollingbank{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.img-banner{
+    object-fit: cover;
+    height: 35rem;
+}
+
+.icon {
+    font-size: 50px;
+}
+
+.card-shadow{
+    box-shadow: 7px 7px 23px rgb(120, 120, 120,0.3);
+}
+
+.font-logo{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+/* Footer */
+.fondoFooter {
+    background: rgb(40, 40, 41);
+}
+
+.navFooter {
+    text-decoration: none;
+}
+
+.navFooter:hover {
+    text-decoration: underline;
+}
