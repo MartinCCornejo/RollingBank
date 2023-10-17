@@ -12,7 +12,7 @@
 }
 
 .card-shadow{
-    box-shadow: 7px 7px 23px rgb(120, 120, 120);
+    box-shadow: 7px 7px 23px rgb(120, 120, 120,0.3);
 }
 
 .font-logo{
