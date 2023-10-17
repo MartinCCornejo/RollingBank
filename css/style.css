@@ -9,8 +9,21 @@
 }
 
 .card-shadow{
-    box-shadow: 7px 7px 23px rgba(120,120,120,0.3);
+    box-shadow: 7px 7px 23px rgb(120, 120, 120);
 }
 .font-logo{
     font-family: 'Black Han Sans', sans-serif;
+}
+
+/* Footer */
+.fondoFooter {
+    background: rgb(40, 40, 41);
+}
+
+.navFooter {
+    text-decoration: none;
+}
+
+.navFooter:hover {
+    text-decoration: underline;
 }
